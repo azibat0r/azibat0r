@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Azibator
 
-<!--
-**azibat0r/azibat0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UIC interested in software engineering and full-stack development.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **React E-Commerce Application**
+  - Built with React, TypeScript, and REST APIs
+  - Features cart system, checkout flow, and dynamic UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Amazon E-Commerce Clone**
+  - Built with HTML, CSS, JavaScript
+  - Includes product listings, cart system, and order tracking
+
+## 🛠️ Skills
+- React, TypeScript, JavaScript
+- HTML, CSS
+- API Integration
+
+## 📫 Connect with me
+- LinkedIn: [your link]
