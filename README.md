@@ -1,13 +1,12 @@
-# Hi, I'm Azibator
+# Hi, I'm Azibator 👋
 
-Computer Science student at UIC interested in software engineering and full-stack development.
+Computer Science student at the University of Illinois Chicago with a strong interest in software engineering and full-stack development. I enjoy building real-world applications using modern technologies like React and TypeScript.
 
-## 🛠️ Skills
+## 🔧 Skills
 - React, TypeScript, JavaScript
 - HTML, CSS
 - API Integration
+- Git & GitHub
 
 ## 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/azibator-alagoa
-
-
+- [LinkedIn](https://www.linkedin.com/in/azibator-alagoa)
