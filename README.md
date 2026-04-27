@@ -17,4 +17,6 @@ Computer Science student at UIC interested in software engineering and full-stac
 - API Integration
 
 ## 📫 Connect with me
-- LinkedIn: [your link]
+- LinkedIn: www.linkedin.com/in/azibator-alagoa
+
+
